@@ -1,5 +1,5 @@
 # Bruno Spindola
-### Software Engineer · Python · Embedded Systems · Data
+### Software Engineer | Python · Embedded Systems · Data
 
 Control & Automation Engineer with production experience building software that operates at the intersection of hardware and data — from embedded firmware on industrial measurement systems to IoT pipelines running on automotive production lines at Volkswagen do Brasil.
 
