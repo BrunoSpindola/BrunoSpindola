@@ -7,7 +7,7 @@
 *Control & Automation Engineer transitioning into Software and ML Engineering*
 *Building at the intersection of hardware, data, and intelligent systems*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-brunospindola-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/brunospindola)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-brunospindola-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bruno-spindola)
 [![GitHub](https://img.shields.io/badge/GitHub-BrunoSpindola-181717?style=flat&logo=github&logoColor=white)](https://github.com/BrunoSpindola)
 [![Email](https://img.shields.io/badge/Email-bruno.spindola@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:bruno.spindola@outlook.com)
 [![Location](https://img.shields.io/badge/São_Paulo-Brazil-009C3B?style=flat)](#)
