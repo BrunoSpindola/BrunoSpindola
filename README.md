@@ -5,6 +5,7 @@
 ### Software Engineer · Embedded Systems · ML Engineering
 
 *Control & Automation Engineer transitioning into Software and ML Engineering*
+
 *Building at the intersection of hardware, data, and intelligent systems*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-brunospindola-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bruno-spindola)
